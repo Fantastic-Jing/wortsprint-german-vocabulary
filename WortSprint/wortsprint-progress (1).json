@@ -1,0 +1,992 @@
+{
+  "app": "WortSprint",
+  "version": 1,
+  "exportedAt": "2026-09-27T07:47:38.248Z",
+  "data": {
+    "words": {
+      "die Wohnung": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "wohnen": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "die WG / die Wohngemeinschaft": {
+        "score": 5,
+        "attempts": 17,
+        "archived": true
+      },
+      "das Zimmer": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "die Hausaufgabe": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "die Übung": {
+        "score": 5,
+        "attempts": 11,
+        "archived": true
+      },
+      "machen": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "schreiben": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "lernen": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "die Grammatik": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "die Bewerbung": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "das Angebot": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "wiederholen": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "einkaufen": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "der Wortschatz": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "lesen": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "die Kaution": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "die Nebenkosten": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "der Mietvertrag": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "die Adresse": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "einziehen": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "innerhalb": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "außerhalb": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "liefern": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "bestellen": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "die Rechnung": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "der Rabatt": {
+        "score": 5,
+        "attempts": 11,
+        "archived": true
+      },
+      "der Beruf": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "die Arbeitszeit": {
+        "score": 5,
+        "attempts": 9,
+        "archived": true
+      },
+      "sich bewerben um": {
+        "score": 5,
+        "attempts": 11,
+        "archived": true
+      },
+      "warten auf": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "sprechen über": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "empfehlen": {
+        "score": 5,
+        "attempts": 9,
+        "archived": true
+      },
+      "günstig": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "die Warmmiete": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "die Präposition": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Verantwortung übernehmen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Wartung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "unbefristet": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "möbliert": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "besichtigen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "neben": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Stadtzentrum": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Fahrradweg": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "reklamieren": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "zurückschicken": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "nachhaltig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Freundschaft": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Gelegenheit": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich verbessern": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Vorteil": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Nachteil": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "alleine wohnen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Studierendenwohnheim": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "selbstständig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich wohlfühlen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Mietpreis": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Vermieter / die Vermieterin": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Putzplan": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Lieferung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "verfügbar": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Preisschild": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "ehrlich": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "geduldig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "unterstützen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "verbringen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Stelle": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Berufserfahrung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Vorstellungsgespräch": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "zuverlässig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "teamfähig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "teilnehmen an": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Weiterbildung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Gehalt": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "geeignet": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "damit": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "seit": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Wohnungsanzeige": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Quereinsteiger / die Quereinsteigerin": {
+        "score": 1,
+        "attempts": 3,
+        "archived": false
+      },
+      "der Konjunktiv II": {
+        "score": 2,
+        "attempts": 2,
+        "archived": false
+      },
+      "der Relativsatz": {
+        "score": 0,
+        "attempts": 2,
+        "archived": false
+      },
+      "die Arbeitgeberattraktivität": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "das Lebensprofil": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "die Zweck-WG": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "die Aegidienkirche": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "der Warentrenner": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "die Vokabel": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "überwachen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Überwachung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Verpflegung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Forum": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Reklamation": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Freund / die Freundin": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Eigenschaft": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "erholsam": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich die Kosten teilen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich das Bad und die Küche teilen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "seine Ruhe haben": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "bei den Eltern wohnen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Hochschulstadt": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Kompromiss": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Haushaltskasse": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich zurückziehen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Internetanschluss": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Fußboden": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Rückerstattung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Umtausch": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Einkaufswagen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "abwiegen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Beziehung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "treu": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "witzig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "mutig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "optimistisch": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich verstehen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Vorteil / der Nachteil": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "um ... herum": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Fähigkeit": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Arbeitgeber": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "belastbar": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich interessieren für": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "denken an": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "bitten um": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "abhängen von": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich treffen mit": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Stärke": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Bewerbungsschreiben": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Stellenausschreibung": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Bewerber / die Bewerberin": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Arbeitsklima": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Arbeitsbedingungen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Motivation": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "um ... zu": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "ab": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "während": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "bis": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Gesuch": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich beeilen": {
+        "score": 5,
+        "attempts": 7,
+        "archived": true
+      },
+      "es eilig haben": {
+        "score": 5,
+        "attempts": 3,
+        "archived": true
+      },
+      "tragen": {
+        "score": 5,
+        "attempts": 5,
+        "archived": true
+      },
+      "attraktiv": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "faul": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "zärtlich": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Lebensform, -en": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "zusammenwohnen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich verabreden": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich kennenlernen": {
+        "score": 5,
+        "attempts": 9,
+        "archived": true
+      },
+      "der Partner / die Partnerin, - / -nen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich freuen auf + Akk. / sich freuen über + Akk.": {
+        "score": 5,
+        "attempts": 4,
+        "archived": true
+      },
+      "sich erinnern an + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich kümmern um + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich entschuldigen bei + Dat. / für + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich vorbereiten auf + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich verlassen auf + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "bestehen aus + Dat.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "gehören zu + Dat.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich vorstellen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Alltag, -e": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "planen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "gestalten": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich entscheiden für + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "hoffen auf + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Ziele erreichen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Erfahrungen sammeln": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "die Qualifikation, -en": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "die Ausbildung, -en": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "das Anschreiben, -": {
+        "score": 1,
+        "attempts": 1,
+        "archived": false
+      },
+      "der Lebenslauf, -läufe": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Anlage, -n": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Zeugnis, -se": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Sprachkenntnisse": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "sich beziehen auf + Akk.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Mit freundlichen Grüßen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Ich freue mich auf Ihre Rückmeldung.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "flexible Arbeitszeiten": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Nebenjob, -s": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Pflichtpraktikum, -praktika": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Erfahrungsbericht, -e": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "das Jobportal, -e": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Jobbörse, -n": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Matching Day, -s": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "Kontakte herstellen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Verwaltung, -en": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "aussagekräftig": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "erforderlich": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "über etwas verfügen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "überzeugen": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "die Laufkundschaft": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "der Umgang mit + Dat.": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      },
+      "einen kühlen Kopf bewahren": {
+        "score": 0,
+        "attempts": 0,
+        "archived": false
+      }
+    },
+    "cycles": {
+      "must": 30,
+      "related": 0,
+      "know": 0
+    },
+    "today": 245,
+    "lastDate": "2026-09-26",
+    "batches": {
+      "must": [
+        "Erfahrungen sammeln",
+        "die Qualifikation, -en",
+        "die Ausbildung, -en",
+        "das Anschreiben, -",
+        "der Lebenslauf, -läufe",
+        "die Anlage, -n",
+        "die Sprachkenntnisse",
+        "Mit freundlichen Grüßen",
+        "Ich freue mich auf Ihre Rückmeldung.",
+        "flexible Arbeitszeiten"
+      ],
+      "related": [],
+      "know": [
+        "der Quereinsteiger / die Quereinsteigerin",
+        "der Konjunktiv II",
+        "der Relativsatz",
+        "die Arbeitgeberattraktivität",
+        "das Lebensprofil",
+        "die Zweck-WG",
+        "die Aegidienkirche",
+        "der Warentrenner"
+      ]
+    },
+    "edits": {}
+  }
+}

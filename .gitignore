@@ -1,0 +1,9 @@
+# Generated previews and temporary working files
+.ppt_build/
+.ppt_output/
+tmp/
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
